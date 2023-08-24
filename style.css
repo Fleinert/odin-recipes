@@ -1,0 +1,28 @@
+h1 {
+    background-color: teal;
+    color: yellow;
+    padding: 30px;
+    margin: auto;
+}
+
+.recipe {
+    font-weight: bold;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid;
+    padding: 5px;
+    margin: 5px;
+    display: inline-block;
+}
+
+#polpette {
+    color: darkolivegreen;
+}
+
+#turkey {
+    color: tan;
+}
+
+#spaghetti {
+    color: gray;
+}
